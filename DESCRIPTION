@@ -1,0 +1,11 @@
+Package: basicStatTools
+Title: A Package for Basic Statistical Functions
+Version: 0.1.0
+Author: Dominik Stodola
+Description: This package can be used to calculate the statistical parameters mean, median, standard deviation, variance, quantiles. It can also be used to plot a box plot
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: 
+    tidyverse, 
+    ggplot2
